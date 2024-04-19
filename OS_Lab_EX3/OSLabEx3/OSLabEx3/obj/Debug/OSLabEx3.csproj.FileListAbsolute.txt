@@ -1,0 +1,10 @@
+D:\Uni\OS Lab\OS_Lab_EX3\OSLabEx3\OSLabEx3\bin\Debug\OSLabEx3.exe.config
+D:\Uni\OS Lab\OS_Lab_EX3\OSLabEx3\OSLabEx3\bin\Debug\OSLabEx3.exe
+D:\Uni\OS Lab\OS_Lab_EX3\OSLabEx3\OSLabEx3\bin\Debug\OSLabEx3.pdb
+D:\Uni\OS Lab\OS_Lab_EX3\OSLabEx3\OSLabEx3\obj\Debug\OSLabEx3.csproj.AssemblyReference.cache
+D:\Uni\OS Lab\OS_Lab_EX3\OSLabEx3\OSLabEx3\obj\Debug\OSLabEx3.csproj.CoreCompileInputs.cache
+D:\Uni\OS Lab\OS_Lab_EX3\OSLabEx3\OSLabEx3\obj\Debug\OSLabEx3.exe
+D:\Uni\OS Lab\OS_Lab_EX3\OSLabEx3\OSLabEx3\obj\Debug\OSLabEx3.pdb
+D:\Uni\OS Lab\OS_Lab_EX3\OSLabEx3\OSLabEx3\bin\Debug\Newtonsoft.Json.dll
+D:\Uni\OS Lab\OS_Lab_EX3\OSLabEx3\OSLabEx3\bin\Debug\Newtonsoft.Json.xml
+D:\Uni\OS Lab\OS_Lab_EX3\OSLabEx3\OSLabEx3\obj\Debug\OSLabEx3.csproj.CopyComplete
